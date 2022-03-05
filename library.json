@@ -2,7 +2,7 @@
   "name": "SmartacMTLibs",
   "version": "1.0.0",
   "website": "",
-  "gitUrl": "",
+  "gitUrl": "https://github.com/Smartac/SmartacMTLibs",
   "authors": [ "Smartac" ],
   "license": "GPL 3.0",
   "namespace": "",
