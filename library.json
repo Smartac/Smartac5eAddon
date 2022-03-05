@@ -1,0 +1,14 @@
+{
+  "name": "SmartacLibs",
+  "version": "1.0.0",
+  "website": "",
+  "gitUrl": "",
+  "authors": [ "Smartac" ],
+  "license": "GPL 3.0",
+  "namespace": "",
+  "description": "A library for MapTool that includes many pre-built macros.",
+  "shortDescription": "SmartacLib",
+  "allowsUriAccess": true,
+  "readMeFile": "readme.md",
+  "licenseFile": "license.txt"
+}
