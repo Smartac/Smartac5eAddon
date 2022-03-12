@@ -1,0 +1,1 @@
+[h: broadcast("<span style='color: #ff0000;'>Welcome to <u>Smartac&#39;s D&#38;D5e Library Addon</u> for MapTool!</span>")]
